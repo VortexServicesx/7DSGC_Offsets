@@ -23,6 +23,9 @@ The goal is to help developers learn reverse engineering concepts in a controlle
 
 ---
 
+## Improvement for this project
+The json contructor is in development as of right now im currently working on a better contructor so its more readable.
+
 ## Disclaimer
 
 This repository is strictly for educational purposes. It does not provide or promote any form of runtime manipulation, cheating, or unauthorized modification of software.
