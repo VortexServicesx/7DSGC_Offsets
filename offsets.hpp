@@ -6,3 +6,6 @@
 // https://gofile.io/d/SorYch
 
 // If the .hpp file is not opening, try opening it in an IDE to view it properly.
+
+
+// PLEASE READ!!!
