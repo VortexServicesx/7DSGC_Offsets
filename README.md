@@ -4,6 +4,8 @@
 
 Welcome to 7DSGC Offsets. We provide PC and Android offsets generated using the Curiosity Dumper. This tool allows us to dump the game, locate all offsets, and reconstruct them into a `.hpp` file.
 
+> Note: The Curiosity Dumper is currently in **beta**, so features and output may change.
+> 
 **Game:** The Seven Deadly Sins: Grand Cross  
 **Version:** 2.101.1.x
 
