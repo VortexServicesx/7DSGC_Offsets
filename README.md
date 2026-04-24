@@ -1,11 +1,14 @@
 ![preview](images/logo.png)
 
 # 7DSGC Offsets
-Welcome to a universe with fully updated offsets for 7DSGC, these aren't dumped from Android they're dumped from the (PC client) windows version, i might add Android support soon!
+Welcome to 7DSGC Offsets. We provide both PC and Android offsets, generated using the Curiosity Dumper. This tool allows us to dump the game, locate all offsets, and reconstruct them into a .hpp file.
+
+Game: The Seven Deadly Sins Grand Cross
+Version: 2.101.1.x
 
 ---
 
-## Contents
+## Contains
 - Offsets
 - Fields
 - Methods
