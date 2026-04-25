@@ -21,6 +21,14 @@ Welcome to 7DSGC Offsets. We provide PC and Android offsets generated using the 
 - Structs
 - Classes
 
+## Signatures
+PC client signatures will be provided.  
+If you'd like to contribute Android signatures, feel free to do so.
+
+Maintaining both PC and Android signatures simultaneously is time-consuming (each update may require multiple signatures per platform), so the focus will remain on PC for now.
+
+*(Coming soon)*
+
 ---
 
 ## Disclaimer
